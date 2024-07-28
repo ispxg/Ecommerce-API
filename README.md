@@ -1,8 +1,6 @@
-# React + Vite
+# React + Hooks + Vite + Tailwind 😁
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔥 In this project I am consuming a Platzi e-commerce API for the development of an online store.
+✨ API docs: https://fakeapi.platzi.com/en/about/introduction/
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🙏 Current version: 1.0
